@@ -175,6 +175,8 @@ function agregarMetodoCalculoDescuento (producto) {
   return producto
 }
 
+// Hola mundo
+
 // No modificar nada debajo de esta línea
 // --------------------------------
 
